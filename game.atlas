@@ -1,0 +1,55 @@
+
+game.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+StatIcons/Culture
+  rotate: false
+  xy: 4, 340
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+StatIcons/Faith
+  rotate: false
+  xy: 4, 172
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+StatIcons/Food
+  rotate: false
+  xy: 172, 340
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+StatIcons/Gold
+  rotate: false
+  xy: 4, 4
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+StatIcons/Happiness
+  rotate: false
+  xy: 172, 172
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+StatIcons/Production
+  rotate: false
+  xy: 340, 340
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+StatIcons/Science
+  rotate: false
+  xy: 172, 4
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
